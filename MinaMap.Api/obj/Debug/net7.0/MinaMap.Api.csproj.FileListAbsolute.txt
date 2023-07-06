@@ -51,3 +51,4 @@ D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\NetTopologySuite.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\NetTopologySuite.IO.PostGis.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Npgsql.NetTopologySuite.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll

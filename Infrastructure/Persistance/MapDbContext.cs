@@ -141,7 +141,7 @@ public partial class MapDbContext : DbContext, IMapDbContext
                 .HasColumnType("geometry(Polygon, 4326)");
         });
 
-        modelBuilder.Entity<Path>(entity =>
+        modelBuilder.Entity<Domain.Entities.Path>(entity =>
         {
             entity.HasKey(e => e.OgcFid).HasName("paths_pkey");
 

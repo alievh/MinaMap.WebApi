@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "1y6ELVLgmQibF0GFFFoUKdk3+huXcYjUTxNpX/R/tRNPhznUsYb0tj+Gj7hXsh43uiYswzV0dKYaAe63Ele0AA==",
+  "dgSpecHash": "KbVByHSC8Y/sdV/MES4Zo2hhdcWSnW5X9y5+tAy7A4R3L+wTC6P8wRLO9WI9vEvdLqjWwtIgjmr0NbzCytzHDw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\MinaMap\\MinaMap.Api\\MinaMap.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hsyna\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
+    "C:\\Users\\hsyna\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.1.0\\microsoft.aspnetcore.mvc.versioning.5.1.0.nupkg.sha512",
     "C:\\Users\\hsyna\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\hsyna\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
     "C:\\Users\\hsyna\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.8\\microsoft.entityframeworkcore.abstractions.7.0.8.nupkg.sha512",

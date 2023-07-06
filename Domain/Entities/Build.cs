@@ -1,7 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using NetTopologySuite.Geometries;
 
-namespace Infrastructure;
+namespace Domain.Entities;
 
 public partial class Build
 {
@@ -78,4 +77,6 @@ public partial class Build
     public string? Geotype { get; set; }
 
     public int? Index { get; set; }
+
+    public Point Geometry { get; set; }
 }
