@@ -1,8 +1,9 @@
-﻿using NetTopologySuite.Geometries;
+﻿using Domain.Entities.Base;
+using NetTopologySuite.Geometries;
 
 namespace Domain.Entities;
 
-public partial class Poi
+public partial class Poi : IBaseEntity
 {
     public int OgcFid { get; set; }
 

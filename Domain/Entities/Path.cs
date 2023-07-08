@@ -1,8 +1,9 @@
-﻿using NetTopologySuite.Geometries;
+﻿using Domain.Entities.Base;
+using NetTopologySuite.Geometries;
 
 namespace Domain.Entities;
 
-public partial class Path
+public partial class Path : IBaseEntity
 {
     public int OgcFid { get; set; }
 
@@ -76,6 +77,6 @@ public partial class Path
 
     public int? Index { get; set; }
 
-    public Point Geometry { get; set; }
+    public LineString Geometry { get; set; }
 
 }

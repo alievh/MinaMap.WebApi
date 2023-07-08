@@ -11,11 +11,11 @@ public partial class MapDbContext : DbContext, IMapDbContext
     {
     }
 
-    public DbSet<Poi> poi => Set<Poi>();
+    public DbSet<Poi> POI => Set<Poi>();
 
-    public DbSet<Build> builds => Set<Build>();
+    public DbSet<Build> Builds => Set<Build>();
 
-    public DbSet<Domain.Entities.Path> paths => Set<Domain.Entities.Path>();
+    public DbSet<Domain.Entities.Path> Paths => Set<Domain.Entities.Path>();
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

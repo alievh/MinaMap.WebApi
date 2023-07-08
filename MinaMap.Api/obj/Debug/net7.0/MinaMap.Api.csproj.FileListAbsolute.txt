@@ -52,3 +52,11 @@ D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\NetTopologySuite.IO.PostGis.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.NetTopologySuite.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Npgsql.NetTopologySuite.dll
 D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\MediatR.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\NetTopologySuite.Features.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\NetTopologySuite.IO.GeoJSON.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\MinaMap\MinaMap.Api\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
